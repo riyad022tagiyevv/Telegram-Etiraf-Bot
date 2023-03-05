@@ -6,7 +6,7 @@ class Config:
 
     BOT_TOKEN = "6127276315:AAGund21od4bz3wYVvOcCF-9qbE4aQ79PtE"  # @Botfatherden aldığınız token
 
-    OWNER = 5809546648 5957295355  # @Sahipin id`si
+    OWNER = 5809546648  # @Sahipin id`si
 
     LOG_ADMINS = -1001823689827  # admin grupu
 
