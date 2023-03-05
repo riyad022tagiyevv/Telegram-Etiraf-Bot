@@ -8,7 +8,7 @@ class Config:
 
     OWNER = 5809546648  # @Sahipin id`si
 
-    LOG_ADMINS = -1001877336321  # admin grupu
+    LOG_ADMINS = -1001823689827  # admin grupu
 
     ETIRAF_CHANNEL = -1001705079927  # İtiraflarin gittigi kanal
 
