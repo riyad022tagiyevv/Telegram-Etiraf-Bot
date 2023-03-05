@@ -12,7 +12,7 @@ class Config:
 
     ETIRAF_CHANNEL = -1001705079927  # İtiraflarin gittigi kanal
 
-    LOG_SILINMIS = -1001877336321  # Sİlinmiş itirafların gittiği kanal
+    LOG_SILINMIS = -1001705079927  # Sİlinmiş itirafların gittiği kanal
 
     LOG_DATABASE = -1001877336321  # bota startp yapanlar ve.s.
 
