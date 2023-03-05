@@ -1,8 +1,8 @@
 class Config:
 
-    API_ID = 29138904  # My.telegram.org
+    API_ID = 12878302  # My.telegram.org
 
-    API_HASH = "0cdbc65bf2e0984ad00464dfd871e90c"  # My.telegram.org
+    API_HASH = "1ce756e879790d465304f48c36294883"  # My.telegram.org
 
     BOT_TOKEN = "6127276315:AAGund21od4bz3wYVvOcCF-9qbE4aQ79PtE"  # @Botfatherden aldığınız token
 
